@@ -4,7 +4,8 @@
   "description": "Api Enquetes para treinar esses conceitos: DDD, TDD, SOLID, Clean Architecture.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged": "jest"
   },
   "keywords": [],
   "author": "",
